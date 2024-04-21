@@ -1,0 +1,17 @@
+{
+  "name": "msnodesqlv8_ts_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node dist/query",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "msnodesqlv8": "^4.1.2",
+    "typescript": "^5.4.5"
+  }
+}
