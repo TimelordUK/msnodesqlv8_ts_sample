@@ -15,7 +15,8 @@
     "pretty": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "types": ["node"]
   },
   "compileOnSave": true,
   "include": [
