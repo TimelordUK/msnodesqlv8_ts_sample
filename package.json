@@ -1,6 +1,6 @@
 {
   "name": "msnodesqlv8_ts_sample",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "",
   "main": "index.js",
   "scripts": {
